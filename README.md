@@ -19,10 +19,17 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di lokal:
 ```bash
 git clone https://github.com/username/repo-name.git
 cd repo-name
+```
 
 ### 2. Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
+```
+
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
