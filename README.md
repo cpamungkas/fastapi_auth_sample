@@ -40,12 +40,8 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 Server akan berjalan di: http://localhost:8000
 
 ## API Endpoints
-Auth
-```bash
-Method	Endpoint	Description
-POST	/token	Generate JWT token
-GET	/users/me	Get current logged-in user
-```
+### Auth
+<table><thead><tr><th>Method</th><th>Endpoint</th><th>Description</th></tr></thead><tbody><tr><td><code>POST</code></td><td><code>/token</code></td><td>Generate JWT token</td></tr><tr><td><code>GET</code></td><td><code>/users/me</code></td><td>Get current logged-in user</td></tr></tbody></table>
 
 ### Example Request Login
 ```bash
