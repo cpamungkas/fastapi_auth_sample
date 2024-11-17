@@ -17,8 +17,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project ini di lokal:
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/cpamungkas/fastapi_auth_sample.git
+cd fastapi_auth_sample
 ```
 
 ### 2. Create Virtual Environment
