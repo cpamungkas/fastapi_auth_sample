@@ -61,7 +61,7 @@ username=johndoe&password=secret
 
 ## Project Structure
 ```bash
-repo-name/
+fastapi_auth_sample/
 ├── app/
 │   ├── __init__.py
 │   ├── auth.py        # Authentication logic
