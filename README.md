@@ -77,4 +77,4 @@ repo-name/
 Project ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
 
 ## Authors
-👨‍💻 Dibangun dengan ❤️ oleh Your Name.
+👨‍💻 Dibangun dengan ❤️ oleh kangcp.
