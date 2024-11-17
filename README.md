@@ -77,4 +77,4 @@ fastapi_auth_sample/
 Project ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk informasi lebih lanjut.
 
 ## Authors
-👨‍💻 Dibangun dengan ❤️ oleh kangcp.
+👨‍💻 Dibangun dengan ❤️ oleh cpamungkas 'kangcp'.
